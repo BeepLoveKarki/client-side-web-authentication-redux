@@ -1,0 +1,1 @@
+export const dsecret="asdrtyyuji120ASDBagsgh22$FFF12";
